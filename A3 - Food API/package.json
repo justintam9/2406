@@ -1,0 +1,17 @@
+{
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "description": "Uses Food2fork API to load recipes that belong to the ingredient",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Justin Tam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}

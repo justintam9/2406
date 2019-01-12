@@ -10,7 +10,7 @@ Windows 10 Pro
 Install:
 None
 
-Launch:
+Launch in a command prompt:
 node server.js
 
 Testing:

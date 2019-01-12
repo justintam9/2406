@@ -8,7 +8,7 @@ Windows 10 Pro
 Install:
 In the command prompt : npm install socket.io
 
-Launch:
+Launch in command prompt:
 node server.js
 
 Testing:

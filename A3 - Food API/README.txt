@@ -12,7 +12,7 @@ To install npm modules execute:
 
 This will install the modules listed as dependencies in the package.json file.
 
-To run either execute
+To run either execute in a command prompt
 >npm start
 or 
 >node server.js
